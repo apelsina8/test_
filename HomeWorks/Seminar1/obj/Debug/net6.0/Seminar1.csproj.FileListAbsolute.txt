@@ -1,0 +1,15 @@
+C:\Users\altne\Desktop\Seminar\HomeWorks\Seminar1\obj\Debug\net6.0\Seminar1.csproj.AssemblyReference.cache
+C:\Users\altne\Desktop\Seminar\HomeWorks\Seminar1\obj\Debug\net6.0\Seminar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\altne\Desktop\Seminar\HomeWorks\Seminar1\obj\Debug\net6.0\Seminar1.AssemblyInfoInputs.cache
+C:\Users\altne\Desktop\Seminar\HomeWorks\Seminar1\obj\Debug\net6.0\Seminar1.AssemblyInfo.cs
+C:\Users\altne\Desktop\Seminar\HomeWorks\Seminar1\obj\Debug\net6.0\Seminar1.csproj.CoreCompileInputs.cache
+C:\Users\altne\Desktop\Seminar\HomeWorks\Seminar1\bin\Debug\net6.0\Seminar1.exe
+C:\Users\altne\Desktop\Seminar\HomeWorks\Seminar1\bin\Debug\net6.0\Seminar1.deps.json
+C:\Users\altne\Desktop\Seminar\HomeWorks\Seminar1\bin\Debug\net6.0\Seminar1.runtimeconfig.json
+C:\Users\altne\Desktop\Seminar\HomeWorks\Seminar1\bin\Debug\net6.0\Seminar1.dll
+C:\Users\altne\Desktop\Seminar\HomeWorks\Seminar1\bin\Debug\net6.0\Seminar1.pdb
+C:\Users\altne\Desktop\Seminar\HomeWorks\Seminar1\obj\Debug\net6.0\Seminar1.dll
+C:\Users\altne\Desktop\Seminar\HomeWorks\Seminar1\obj\Debug\net6.0\refint\Seminar1.dll
+C:\Users\altne\Desktop\Seminar\HomeWorks\Seminar1\obj\Debug\net6.0\Seminar1.pdb
+C:\Users\altne\Desktop\Seminar\HomeWorks\Seminar1\obj\Debug\net6.0\Seminar1.genruntimeconfig.cache
+C:\Users\altne\Desktop\Seminar\HomeWorks\Seminar1\obj\Debug\net6.0\ref\Seminar1.dll
